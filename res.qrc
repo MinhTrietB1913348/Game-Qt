@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>background.mp3</file>
+        <file>bullet.wav</file>
+        <file>bullet2.wav</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>bullet.png</file>
+        <file>crown-of-chaos.gif</file>
+        <file>New map (1).jpg</file>
+        <file>enemy.png</file>
+        <file>player.png</file>
+        <file>player (1).png</file>
+        <file>nhanvat.png</file>
+        <file>nhanvat2.png</file>
+        <file>enemy1.png</file>
+        <file>enemy2.png</file>
+        <file>bullet1.png</file>
+        <file>enemy3.gif</file>
+        <file>enemy4.png</file>
+        <file>bullet2.png</file>
+        <file>dragon_player1.png</file>
+        <file>dragon_player2.png</file>
+        <file>dragon_player3.png</file>
+        <file>dragon_player4.png</file>
+        <file>flower1.png</file>
+        <file>flower2.png</file>
+        <file>flower3.png</file>
+        <file>flower4.png</file>
+        <file>flower5.png</file>
+        <file>ghost1.png</file>
+        <file>ghost2.png</file>
+        <file>ghost3.png</file>
+        <file>ghost4.png</file>
+        <file>dragonEvolve_player1.png</file>
+        <file>dragonEvolve_player2.png</file>
+        <file>dragonEvolve_player3.png</file>
+        <file>dragonEvolve_player4.png</file>
+        <file>Failed_Scene.png</file>
+        <file>Clear_Scene.png</file>
+        <file>Final_Boss1.png</file>
+        <file>Final_Boss2.png</file>
+        <file>Final_Boss3.png</file>
+        <file>Final_Boss4.png</file>
+        <file>HUDgame.png</file>
+        <file>avata.jpg</file>
+        <file>Devil1.png</file>
+        <file>Devil2.png</file>
+        <file>Devil3.png</file>
+        <file>Devil4.png</file>
+        <file>bullet3.png</file>
+    </qresource>
+</RCC>
